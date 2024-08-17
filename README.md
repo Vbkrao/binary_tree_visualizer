@@ -4,7 +4,7 @@ This project provides a utility for visualizing binary trees using HTML5 Canvas.
 
 ## Project Structure
 
-### 1. `BinaryTreeNode.js`
+### `BinaryTreeNode.js`
 
 Defines the `BinaryTreeNode` class used for representing nodes in a binary tree.
 
